@@ -6,11 +6,11 @@ let saram = [
 
 let userWithId2 = saram.find(user => user.id === 2);
 
-console.log("Пользователь с id 2:", userWithId2);
+console.log(Сарам с id 2:", userWithId2);
 
 
   
 let filteredSaram = saram.filter(user => user.id > 1);
 
-console.log("Отфильтрованные пользователи:", filteredSaram);
+console.log("Отфильтрованные сарамдыль:", filteredSaram);
   
