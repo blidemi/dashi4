@@ -6,7 +6,7 @@ let saram = [
 
 let userWithId2 = saram.find(user => user.id === 2);
 
-console.log(Сарам с id 2:", userWithId2);
+console.log("Сарам с id 2:", userWithId2);
 
 
   
